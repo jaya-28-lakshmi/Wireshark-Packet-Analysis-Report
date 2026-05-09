@@ -70,9 +70,3 @@ Three types of traffic were captured:
 This project successfully demonstrated how to capture and interpret HTTP, DNS, and TLS traffic using Wireshark. It highlighted the visibility of unencrypted protocols (HTTP, DNS) and the limited visibility of encrypted TLS (only handshake metadata). These skills are foundational for network troubleshooting and security monitoring.
 
 ---
-
-
-
----
-
-Let me know if you want a shorter version or a plain‑text README instead of Markdown.
